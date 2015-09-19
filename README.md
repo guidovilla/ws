@@ -1,2 +1,2 @@
 # ws
-WebSocket
+WebSocket server
